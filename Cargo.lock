@@ -27,6 +27,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "chinese_data"
+version = "0.1.0"
+dependencies = [
+ "character_comp",
+ "unicode-segmentation",
+]
+
+[[package]]
 name = "env_logger"
 version = "0.8.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"

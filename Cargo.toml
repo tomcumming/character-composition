@@ -4,4 +4,5 @@ resolver = "2"
 
 members = [
   "character_comp",
+  "chinese_data"
 ]
